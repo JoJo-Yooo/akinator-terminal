@@ -21,7 +21,7 @@ npm install
 Para iniciar el juego, simplemente ejecuta el siguiente comando:
 
 ```bash
-npm start
+npm run start
 ```
 
 A continuación, sigue las instrucciones en pantalla para jugar al Akinator.
