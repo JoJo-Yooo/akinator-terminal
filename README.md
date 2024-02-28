@@ -7,7 +7,7 @@ Akinator CLI es una aplicación de línea de comandos que te permite jugar al fa
 1. Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/JoJo-Yooo/akinator-termin)https://github.com/JoJo-Yooo/akinator-terminal
+git clone https://github.com/JoJo-Yooo/akinator-terminal
 ```
 
 2. Instala las dependencias necesarias ejecutando el siguiente comando en la raíz del proyecto:
